@@ -12,4 +12,4 @@ out
 
 # IDE files
 .DS_Store
-.vscode
+.vscode.next
